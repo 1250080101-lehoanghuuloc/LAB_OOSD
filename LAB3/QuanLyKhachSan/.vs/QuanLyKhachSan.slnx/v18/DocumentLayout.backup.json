@@ -1,0 +1,592 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmDichVu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmDichVu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmThongKe.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmPhongTienNghi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmtraphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmtraphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmTraPhong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmTraPhong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DichVuService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\DichVuService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DatPhongService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\DatPhongService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmMain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmDatPhong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\PhongDatItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\PhongDatItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmphongtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmphongtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\PhongTienNghiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\PhongTienNghiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmDanhMuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\forms\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\forms\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmDanhMuc.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Data\\Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Data\\Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\TraPhongService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\TraPhongService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\KetQuaXuLy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\KetQuaXuLy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmDatPhong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DanhMucService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\DanhMucService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Forms\\FrmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\ThongKeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\ThongKeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DenBuItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApp1\\Services\\DenBuItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmMain.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:09:46.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmMain.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmMain.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:25:30.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDichVu.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDichVu.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmDichVu.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:13:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDichVu.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDichVu.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmDichVu.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAgwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:14:51.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmThongKe.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmThongKe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:36:05.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmThongKe.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmThongKe.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmThongKe.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:36:16.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmThongKe.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmThongKe.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmThongKe.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmThongKe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:36:57.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPhongTienNghi.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmPhongTienNghi.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmPhongTienNghi.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAUwBUBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T14:53:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmTraPhong.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmTraPhong.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmTraPhong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmTraPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:30:12.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPhongTienNghi.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:06:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmTraPhong.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmTraPhong.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmTraPhong.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAswHAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:30:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTraPhong.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmTraPhong.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmTraPhong.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmTraPhong.Designer.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAA6wGABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:32:32.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DichVuService.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DichVuService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\DichVuService.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DichVuService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\DichVuService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwHQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:37:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmDichVu.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDichVu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDichVu.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmDichVu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:12:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDatPhong.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDatPhong.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmDatPhong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmDatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:36:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatPhongService.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DatPhongService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\DatPhongService.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DatPhongService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\DatPhongService.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAmwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:33:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmMain.resx",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmMain.resx",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-25T08:29:29.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmDatPhong.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDatPhong.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmDatPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:48:42.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhongDatItem.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\PhongDatItem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\PhongDatItem.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\PhongDatItem.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\PhongDatItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:35:41.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmPhongTienNghi.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmPhongTienNghi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:06:00.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhongTienNghiService.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\PhongTienNghiService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\PhongTienNghiService.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\PhongTienNghiService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\PhongTienNghiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:26:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmDanhMuc.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDanhMuc.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmDanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:32:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmDanhMuc.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDanhMuc.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmDanhMuc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Forms\\FrmDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:17:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmDanhMuc.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDanhMuc.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDanhMuc.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmDanhMuc.Designer.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAWwDoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:32:22.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-25T11:38:34.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Db.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Data\\Db.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Data\\Db.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Data\\Db.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Data\\Db.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:17:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TraPhongService.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\TraPhongService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\TraPhongService.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\TraPhongService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\TraPhongService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:40:59.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:28:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KetQuaXuLy.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\KetQuaXuLy.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\KetQuaXuLy.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\KetQuaXuLy.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\KetQuaXuLy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:01:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmDatPhong.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmDatPhong.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmDatPhong.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmDatPhong.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAMwMwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:54:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DanhMucService.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DanhMucService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\DanhMucService.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DanhMucService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\DanhMucService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:31:09.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-25T07:16:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Forms\\FrmMain.Designer.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Forms\\FrmMain.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Forms\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwF4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:24:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ThongKeService.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\ThongKeService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\ThongKeService.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\ThongKeService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\ThongKeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:43:02.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DenBuItem.cs",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DenBuItem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\DenBuItem.cs",
+              "ToolTip": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Services\\DenBuItem.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\DenBuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:41:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LAB_OOSD\\LAB3\\QuanLyKhachSan\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\quanlythuvien\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:54:30.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
