@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\bin\Debug\Shopping.exe.config
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\bin\Debug\Shopping.exe
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\bin\Debug\Shopping.pdb
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.Forms.FrmDangKy.resources
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.FrmMain.resources
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.exe
+C:\Users\LENOVO\Downloads\LAB_OOSD-main\LAB_OOSD-main\LAB4\Shopping\Shopping\obj\Debug\Shopping.pdb
