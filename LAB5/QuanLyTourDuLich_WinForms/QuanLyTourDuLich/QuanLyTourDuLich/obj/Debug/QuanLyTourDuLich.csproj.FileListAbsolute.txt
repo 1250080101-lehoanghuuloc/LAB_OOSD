@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+C:\Users\LENOVO\Downloads\QuanLyTourDuLich_WinForms\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
