@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\bin\Debug\QuanLyBenhAn.exe.config
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\bin\Debug\QuanLyBenhAn.exe
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\bin\Debug\QuanLyBenhAn.pdb
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\obj\Debug\QuanLyBenhAn.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\obj\Debug\QuanLyBenhAn.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\obj\Debug\QuanLyBenhAn.exe
+C:\Users\LENOVO\Downloads\QuanLyBenhAn\obj\Debug\QuanLyBenhAn.pdb

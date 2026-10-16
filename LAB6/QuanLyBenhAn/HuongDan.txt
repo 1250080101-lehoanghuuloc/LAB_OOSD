@@ -1,0 +1,19 @@
+﻿HƯỚNG DẪN CHẠY - QUẢN LÝ BỆNH ÁN (WinForms, .NET Framework 4.7.2)
+
+1. Mở SQL Server Management Studio, chạy file Database\QuanLyBenhAn.sql
+   (tạo CSDL QuanLyBenhAn + dữ liệu mẫu: 3 hồ sơ HS0001..HS0003).
+2. Mở QuanLyBenhAn.sln bằng Visual Studio 2022, nhấn F5.
+   Chuỗi kết nối nằm trong Db.cs (mặc định: Data Source=. ; Windows Authentication).
+   Nếu dùng SQL Express, đổi thành .\SQLEXPRESS.
+
+CÁC FORM
+- FrmMain       : Menu chính
+- FrmDanhMuc    : Khoa, Bác sĩ, Thuốc, Xét nghiệm
+- FrmDangKy     : Phiếu đăng ký (họ tên, địa chỉ, ngày sinh, ĐT, ảnh 3x4) + lệ phí năm -> cấp hồ sơ; gia hạn hằng năm
+- FrmPhieuKham  : Tìm hồ sơ theo mã -> lập phiếu khám (ngày giờ, bác sĩ, khoa, triệu chứng, thân nhiệt, huyết áp,
+                  toa thuốc, xét nghiệm, phản ứng phụ, viện phí, ngày xuất viện); xem lịch sử khám
+- FrmHenKham    : Hẹn khám sức khỏe định kỳ theo quý (miễn phí, 1 lần/quý)
+- FrmTraCuu     : Tra cứu hồ sơ theo mã / họ tên / điện thoại, xem lịch sử, toa thuốc, xét nghiệm
+- FrmThongKe    : Thống kê theo khoa, bác sĩ, thuốc, doanh thu
+
+DỮ LIỆU THỬ: HS0003 đã hết hạn lệ phí -> dùng để thử chức năng gia hạn.
