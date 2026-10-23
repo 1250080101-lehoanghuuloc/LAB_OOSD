@@ -4,8 +4,8 @@ Bài thực hành **Lab 7** – Phân tích thiết kế hệ thống và xây d
 
 | | |
 |---|---|
-| **Sinh viên** | Phạm Long Khoa |
-| **MSSV** | 1250080083 |
+| **Sinh viên** | Lê Hoàng Hữu Lộc |
+| **MSSV** | 1250080101 |
 | **Công nghệ** | C# WinForms, .NET Framework 4.8, SQL Server |
 | **Công cụ** | Visual Studio, SQL Server, draw.io |
 
