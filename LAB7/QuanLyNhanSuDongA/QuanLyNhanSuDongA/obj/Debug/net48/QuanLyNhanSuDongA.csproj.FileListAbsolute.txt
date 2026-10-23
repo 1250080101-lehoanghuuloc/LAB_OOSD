@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\bin\Debug\net48\QuanLyNhanSuDongA.exe.config
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\bin\Debug\net48\QuanLyNhanSuDongA.exe
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\bin\Debug\net48\QuanLyNhanSuDongA.pdb
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.exe
+C:\Users\LENOVO\Downloads\QuanLyNhanSuDongA\QuanLyNhanSuDongA\obj\Debug\net48\QuanLyNhanSuDongA.pdb
