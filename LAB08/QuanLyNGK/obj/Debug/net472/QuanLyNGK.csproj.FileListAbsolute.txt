@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\bin\Debug\net472\QuanLyNGK.exe.config
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\bin\Debug\net472\QuanLyNGK.exe
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\bin\Debug\net472\QuanLyNGK.pdb
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.exe
+C:\Users\LENOVO\Downloads\QuanLyNGK\QuanLyNGK\obj\Debug\net472\QuanLyNGK.pdb
